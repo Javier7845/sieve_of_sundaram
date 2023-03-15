@@ -1,4 +1,4 @@
-# The .py file contains the code for the implementation of the Sieve of Sundaram (SoS).
+# An implementation of the Sieve of Sundaram (SoS) in python.
 
 The SoS is a variant of the sieve of Eratosthenes for finding all the prime numbers up to a specified integer. It was discovered by Indian student S. P. Sundaram in 1934.
 
